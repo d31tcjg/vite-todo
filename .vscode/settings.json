@@ -1,0 +1,15 @@
+{
+    "tailwindCSS.includeLanguages": {
+        "plaintext": "html",
+        "vue": "html"
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "prettier.singleQuote": true,
+    "prettier.semi": false,
+    "editor.formatOnSave": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    
+    
+}
